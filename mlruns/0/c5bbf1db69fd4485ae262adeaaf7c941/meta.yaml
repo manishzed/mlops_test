@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/c5bbf1db69fd4485ae262adeaaf7c941/artifacts
+end_time: 1649959396835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c5bbf1db69fd4485ae262adeaaf7c941
+run_uuid: c5bbf1db69fd4485ae262adeaaf7c941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649959394789
+status: 3
+tags: []
+user_id: Asus
